@@ -1,0 +1,2 @@
+# GaleriaFotos2DS
+galeria 
